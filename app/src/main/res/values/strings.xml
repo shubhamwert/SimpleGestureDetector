@@ -2,4 +2,6 @@
     <string name="app_name">DragAndDrop</string>
     <string name="testview1">testView1</string>
     <string name="test">test</string>
+    <string name="Logger_description">Actions are Performed here and then logged to list</string>
+    <string name="logger">Logger</string>
 </resources>
